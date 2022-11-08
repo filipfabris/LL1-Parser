@@ -1,0 +1,17 @@
+
+public enum TokenType {
+	IDN,
+	OP_PRIDRUZI,
+	BROJ,
+	KR_ZA,
+	KR_OD,
+	KR_DO,
+	OP_PLUS,
+	OP_MINUS,
+	OP_PUTA,
+	OP_DIJELI,
+	KR_AZ,
+	EOF,
+	L_ZAGRADA,
+	D_ZAGRADA,
+}
